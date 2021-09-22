@@ -23,5 +23,15 @@ ouput: [
     number: 2,
     number2: 3, // 2+1
     number3? 1, // 2-1
-  }
+  },
+  {
+    number: 4,
+    number2: 5, // 2+1
+    number3? 3, // 2-1
+  },
+  {
+    number: 5,
+    number2: 6, // 2+1
+    number3? 4, // 2-1
+  },
 ]
