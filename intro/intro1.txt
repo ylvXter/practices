@@ -1,0 +1,37 @@
+Câu 1: Cho mảng a, tìm phần tử lớn nhất trong mảng
+ví dụ: a = [4,5,8,10,21,0,11,2] => output: 21
+
+Câu 2: Cho mảng a, tìm tổng 2 phần tử liền kề lớn nhất
+ví dụ: a = [4,5,8,10,21,0,11,2] => output: 31
+giải thích: 
+4+5 = 9
+5+8 = 13
+8+10= 18
+10+21=31 => Số lớn nhất
+21+0=21
+0+11=11
+11+2=13
+
+Câu 3: Tìm ước chung lớn nhất 
+
+Câu 4: Tìm bội chung nhỏ nhất
+
+Câu 5: Cho mảng a với các phần tử là các số, biến mảng a đó thành đúng định dạng
+ví dụ: a = [2, 4, 5] 
+ouput: [
+  {
+    number: 2,
+    number2: 3, // 2+1
+    number3? 1, // 2-1
+  },
+  {
+    number: 4,
+    number2: 5, // 2+1
+    number3? 3, // 2-1
+  },
+  {
+    number: 5,
+    number2: 6, // 2+1
+    number3? 4, // 2-1
+  },
+]
